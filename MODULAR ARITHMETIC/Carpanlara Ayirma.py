@@ -1,7 +1,7 @@
 def carpanlar(a):
     carpanlar=[]
     carpan=2
-    if a == 0 or a < -1:
+    if a == 0 or a <= -1:
         print("dude, what u trying? lol.")
     else:
         while a > 1:

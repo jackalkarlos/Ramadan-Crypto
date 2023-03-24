@@ -1,2 +1,7 @@
 # Ramadan-Crypto
 Ramazan süresi boyunca kriptoloji üstüne çalışacağım. Kaynak olarak cryptohack.org sitesini kullanacağım. 
+
+<h1>MODULER ARITHMETIC:</h1>
+<h2>GCD And The Extended Euclidean Algorithm:<h2>
+http://www-math.ucdenver.edu/~wcherowi/courses/m5410/exeucalg.html
+

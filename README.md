@@ -7,3 +7,6 @@ http://www-math.ucdenver.edu/~wcherowi/courses/m5410/exeucalg.html
 
 <h2>KhanAcademy</h2>
 https://tr.khanacademy.org/computing/computer-science/cryptography
+
+<h2>TR</h2>
+https://bilgisayarkavramlari.com/category/veri-guvenligicryptography/

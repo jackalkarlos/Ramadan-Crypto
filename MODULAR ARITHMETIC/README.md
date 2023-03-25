@@ -26,5 +26,9 @@ Küçük bir sayının büyüğüne modunu alırken yaptığımız tekniğin ayn
 
 <h2>Denklik bağıntısı:</h2>
 
-Örneğin x ≡ 17 (mod 5) için 17'nin 5e modu alınır. Cevap 2'dir. Şıklardaki cevapların 5'e modu alındığında kalanın 2 olması gerekmektedir. 
-12nin 5e modunu aldığımızda kalan 2dir. 17nin 5e modunu aldığımızda da kalan ikidir. Aritmetik dizi ihtimalleri bu şekilde devam eder.
+Örneğin:<br>
+x ≡ 17 (mod 5) için:
+Önce 17'nin 5e modu alınır. Cevap 2'dir. <br>
+Bulacağımız cevapların 5'e modu alındığında kalanın 2 olması gerekmektedir. <br>
+Örneğin 12'nin 5'e modunu aldığımızda kalan 2'dir. 17'nin 5'e modunu aldığımızda da kalan ikidir. <br>
+Aritmetik dizi sonuçları bu şekilde sonsuza kadar devam eder.

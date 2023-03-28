@@ -32,3 +32,9 @@ x ≡ 17 (mod 5) için:
 Bulacağımız cevapların 5'e modu alındığında kalanın 2 olması gerekmektedir. <br>
 Örneğin 12'nin 5'e modunu aldığımızda kalan 2'dir. 17'nin 5'e modunu aldığımızda da kalan ikidir. <br>
 Aritmetik dizi sonuçları bu şekilde sonsuza kadar devam eder.
+
+<h2>Modüler Aritmetikte Toplama - Çıkarma - Çarpma</h2>
+
+(A + B) mod C = (A mod C + B mod C) mod C<br>
+(A - B) mod C = (A mod C - B mod C) mod C<br>
+(A * B) mod C = (A mod C * B mod C) mod C<br>

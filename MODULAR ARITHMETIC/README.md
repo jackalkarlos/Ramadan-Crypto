@@ -42,6 +42,7 @@ Aritmetik dizi sonuçları bu şekilde sonsuza kadar devam eder.
 
 <h2>Çarpma Örneği:</h2>
 Source: KhanAcademy. Please visit KhanAcademy website too! Im only archiving.<br>
+
 ```
 A=4, B=7, C=6 olsun
 Doğrulayalım: (A * B) mod C = (A mod C * B mod C) mod C

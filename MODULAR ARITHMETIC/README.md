@@ -38,3 +38,23 @@ Aritmetik dizi sonuçları bu şekilde sonsuza kadar devam eder.
 (A + B) mod C = (A mod C + B mod C) mod C<br>
 (A - B) mod C = (A mod C - B mod C) mod C<br>
 (A * B) mod C = (A mod C * B mod C) mod C<br>
+
+
+<h2>Çarpma Örneği:</h2>
+Source: KhanAcademy. Please visit KhanAcademy website too! Im only archiving.<br>
+```
+A=4, B=7, C=6 olsun
+Doğrulayalım: (A * B) mod C = (A mod C * B mod C) mod C
+SOL= Denklemin Sol Tarafı
+SAĞ= Denklemin Sağ Tarafı
+SOL= (A * B) mod C
+SOL = (4 * 7) mod 6
+SOL = 28 mod 6
+SOL = 4
+SAĞ = (A mod C * B mod C) mod C
+SAĞ = (4 mod 6 * 7 mod 6) mod 6
+SAĞ = (4 * 1) mod 6
+SAĞ = 4 mod 6
+SAĞ = 4
+SOL = SAĞ = 4
+```

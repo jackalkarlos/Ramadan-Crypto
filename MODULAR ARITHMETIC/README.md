@@ -59,3 +59,7 @@ SAĞ = 4 mod 6
 SAĞ = 4
 SOL = SAĞ = 4
 ```
+
+<h2> Hızlı Modüler Üs Alma </h2>
+
+<b>A^2 mod C = (A * A) mod C = ((A mod C) * (A mod C)) mod C</b>

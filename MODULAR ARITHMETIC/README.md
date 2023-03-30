@@ -63,3 +63,13 @@ SOL = SAĞ = 4
 <h2> Hızlı Modüler Üs Alma </h2>
 
 <b>A^2 mod C = (A * A) mod C = ((A mod C) * (A mod C)) mod C</b>
+
+<h2> Hızlı Modüler Üs Alma Örneği </h2>
+
+```
+5^117 mod 19 = ( 5^1 * 5^4 * 5^16 * 5^32 * 5^64) mod 19
+5^117 mod 19 = ( 5^1 mod 19 * 5^4 mod 19 * 5^16 mod 19 * 5^32 mod 19 * 5^64 mod 19) mod 19
+5^117 mod 19 = ( 5 * 17 * 16 * 9 * 5 ) mod 19
+5^117 mod 19 = 61200 mod 19 = 1
+5^117 mod 19 = 1
+```

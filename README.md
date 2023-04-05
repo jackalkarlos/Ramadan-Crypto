@@ -13,4 +13,4 @@ https://bilgisayarkavramlari.com/category/veri-guvenligicryptography/
 
 <h2>Ayrık Matematik</h2>
 http://www.bumatematikozelders.com/altsayfa/discrete_matematik_ders_videolari.html<br>
-https://www.youtube.com/watch?v=w214mGKbaxg&ab_channel=Kenan%C4%B0nce
+https://www.youtube.com/playlist?list=PL4XQdSx4Y7b7YfQgY38FzegtOEYpZNYRo

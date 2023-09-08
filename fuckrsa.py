@@ -3,10 +3,6 @@ import math
 from Crypto.Util.number import getPrime, bytes_to_long, long_to_bytes
 from sympy import mod_inverse
 
-def calculate_d(e, tot):
-        d = mod_inverse(e, tot)
-        return d
-
 def encrypt(plaintext):
         p = getPrime(2048)
         q = getPrime(2048)
@@ -15,7 +11,7 @@ def encrypt(plaintext):
         e = random.randrange(2, tot)
         while math.gcd(e, tot) != 1:
                 e = random.randrange(2, tot)
-        d = calculate_d(e, tot)
+        d = mod_inverse(e, tot)
         intstr = bytes_to_long(plaintext.encode())
         encrypted = pow(intstr,e,n)
         return encrypted, d, n
